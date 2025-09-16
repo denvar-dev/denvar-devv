@@ -28,7 +28,7 @@
 ---
 
 ## 📬 Connect With Me  
-- ✉ **Email:** junaidpirjade26@gmail.com 
+- ✉ **Email:** junaidpirjade1306@gmail.com 
 - 💼 **LinkedIn:** (https://www.linkedin.com/in/junaid-pirjade-a7b6a5318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 - 🌐 **Portfolio Website:** [Coming Soon](#)  
 
