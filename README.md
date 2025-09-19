@@ -23,7 +23,7 @@
 | 💼 **Portfolio Website Template** | Clean personal portfolio template to showcase work. | [Live Demo](#) | [Repo](#) |
 | 🏋️ **Fitness Studio Page** | ETHOS-style fitness landing page with CTA and features. | [Live Demo](#) | [Repo](#) |
 
-*(Replace `#` with real URLs after deployment.)*
+
 
 ---
 
